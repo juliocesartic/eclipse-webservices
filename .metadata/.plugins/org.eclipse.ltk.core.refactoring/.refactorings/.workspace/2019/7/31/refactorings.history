@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;restful-web-services&apos; to &apos;restful-web-services-2&apos;" description="Rename resource &apos;restful-web-services&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/restful-web-services" name="restful-web-services-2" stamp="1564604814084" updateReferences="true"/>
+</session>
